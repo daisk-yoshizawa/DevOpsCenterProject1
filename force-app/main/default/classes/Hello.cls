@@ -1,5 +1,5 @@
 public class Hello {
     public void exec() {
-        System.debug('Hello World');
+        System.debug('Hello DevOps Center');
     }
 }
